@@ -1,0 +1,14 @@
+name: incver
+version: 1.0.0
+
+authors:
+  - Gautier François <gautier.francois@cooptalis.com>
+  - Cooptalis Infra <infra@cooptalis.com>
+
+targets:
+  incver:
+    main: src/incver.cr
+
+crystal: 0.35.1
+
+license: MIT
